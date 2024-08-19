@@ -1,1 +1,1 @@
-<?php info(); ?>
+hola mundo
